@@ -1,6 +1,6 @@
-# ICMVC
+# DCL
 
-PyTorch implementation for[ Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding].
+
 
 
 
